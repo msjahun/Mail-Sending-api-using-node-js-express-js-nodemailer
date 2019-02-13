@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-email-api",
+  "version": "1.0.0",
+  "description": "a sample api for sending email using node mailer",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemailer": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msjahun/Mail-Sending-api-using-node-js-express-js-nodemailer.git"
+  },
+  "author": "Musa Jahun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msjahun/Mail-Sending-api-using-node-js-express-js-nodemailer/issues"
+  },
+  "homepage": "https://github.com/msjahun/Mail-Sending-api-using-node-js-express-js-nodemailer#readme"
+}
